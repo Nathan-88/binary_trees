@@ -6,6 +6,7 @@
  *
  * Return: Number of tree nodes
  */
+
 int count_h_nodes(binary_tree_t *root)
 {
 	if (!root)

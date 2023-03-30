@@ -5,6 +5,7 @@
  * @node: node to find
  * Return: 1 if exits 0 if no
  */
+
 int find_node(binary_tree_t *root, binary_tree_t *node)
 {
 
